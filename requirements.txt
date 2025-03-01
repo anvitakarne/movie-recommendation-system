@@ -1,0 +1,16 @@
+# Data Handling
+pandas
+numpy
+
+# Network Analysis
+networkx
+community
+
+# Visualization
+matplotlib
+
+# Graph Layouts
+pygraphviz  # Required for graphviz_layout in networkx
+
+# NLP & Topic Modeling
+gensim
